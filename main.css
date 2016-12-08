@@ -2,7 +2,8 @@
 /* NOTE: Do not edit the Bootstrap CSS files. */
 
 body {
-    padding-top: 30px;
-    padding-bottom: 20px;
-    color: green;
+  font-family: 'Open Sans', sans-serif;  
+  padding-top: 30px;
+  padding-bottom: 20px;
+  color: green;
 }
